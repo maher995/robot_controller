@@ -4,7 +4,7 @@ A simple web-based control pad for driving a robot remotely. A browser page send
 
 ## 🎥 Demo
 
-See [`demo.mp4`](./demo.mp4) for a walkthrough of the control pad in action.
+Watch the walkthrough of the control pad in action: https://youtu.be/PQYhkCEGga0
 
 ## 🧩 How It Works
 
