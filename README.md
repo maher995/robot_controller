@@ -29,7 +29,6 @@ Watch the walkthrough of the control pad in action: https://youtu.be/PQYhkCEGga0
 | `get_state.php` | Returns the current command and last-updated timestamp as JSON — this is what the robot polls. |
 | `db.php` | Holds the database connection (host, user, password, database name) used by the other PHP scripts. |
 | `setup.sql` | One-time SQL script to create the `robot_state` table and seed its single row. |
-| `demo.mp4` | Video demo of the control pad working end-to-end. |
 
 ## 🗃️ Database Schema
 
